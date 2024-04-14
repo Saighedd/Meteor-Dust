@@ -110,7 +110,7 @@
 #app-mount .uploadModal__6eb75 /* upload modal */,
 .uploadModal__6eb75 .footer_f06dbb /* upload modal footer */ {
 	background: var(--bg-4);
-	filter: var(--blur-4);
+	backdrop-filter: var(--blur-4);
 }
 .mainCard__0ec2c /* forum post */,
 .navRow_bb8efc[data-theme=dark] /* add new account bottom */ {
