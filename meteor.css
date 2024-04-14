@@ -99,7 +99,7 @@
 #app-mount .panels__58331 > div /* user panel children */,
 .container_e1958d /* vc panel */,
 .sidebarRegionScroller__8113e /* settings left */,
-#app-mount .container__03ec9[style="backdrop-filter: blur(10px);"] /* browse channels container */,
+#app-mount .container__03ec9 /* browse channels container */,
 #app-mount .header__71942 /* browse channels header */,
 #app-mount .container__6b2e5 /* browse channels inner */,
 .chat__52833.background__2fff8 /* server guide body */,
@@ -110,6 +110,7 @@
 #app-mount .uploadModal__6eb75 /* upload modal */,
 .uploadModal__6eb75 .footer_f06dbb /* upload modal footer */ {
 	background: var(--bg-4);
+	filter: var(--blur-4);
 }
 .mainCard__0ec2c /* forum post */,
 .navRow_bb8efc[data-theme=dark] /* add new account bottom */ {
